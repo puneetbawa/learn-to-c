@@ -8,6 +8,7 @@ int foo()
   return ++a;
 }
 
+
 int main()
 {
   
