@@ -6,7 +6,6 @@
 #include<stdlib.h>
 #include<string.h>
 
-
 struct Employee{
 	int eno;
 	char ename[20];
