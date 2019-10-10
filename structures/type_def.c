@@ -3,12 +3,11 @@
 
 #include<stdio.h>
 
- struct Employee{
+ typedef struct Employee{
 	int eno;
 	char ename[20];
 	float esal;
-};
-typedef struct Employee e;
+}e;
 
 struct Student{
 	int sno;
