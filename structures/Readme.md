@@ -54,3 +54,10 @@ The Following are the programs that will be used for the practice of basic progr
 1) Write a program to show the basic use of the structure.{emp_details.c}
 2) Write a program to add two distances in inch-feet using structure. The values of the distances is to be taken from the user.{feet_inch.c}
 3) Write a program to increment the values using the parameter where function is used inorder to intialize the value of the declared variables inside the structure.{in_func_str_dec.c} 
+
+Points to Remember in C Nested Structures
+
+To print the structure variable we have to use dot operator (.)
+To print the C nested structure variable we have to use 2 dot operators such as (Structure Variable. Nested Structure Variable. Structure Member)
+printing the structure pointer variable we have to use arrow operator instead of dot operator. (Structure Variable -> Structure Member)
+To print the C nested structure variable using pointers then we have to use combination of arrow operator and dot operator. (Structure Variable -> Nested Structure Variable. Structure Member)
