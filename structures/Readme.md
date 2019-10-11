@@ -57,7 +57,7 @@ The Following are the programs that will be used for the practice of basic progr
 
 Points to Remember in C Nested Structures
 
-To print the structure variable we have to use dot operator (.)
-To print the C nested structure variable we have to use 2 dot operators such as (Structure Variable. Nested Structure Variable. Structure Member)
-printing the structure pointer variable we have to use arrow operator instead of dot operator. (Structure Variable -> Structure Member)
-To print the C nested structure variable using pointers then we have to use combination of arrow operator and dot operator. (Structure Variable -> Nested Structure Variable. Structure Member)
+1)To print the structure variable we have to use dot operator (.)
+2)To print the C nested structure variable we have to use 2 dot operators such as (Structure Variable. Nested Structure Variable. Structure Member)
+3)printing the structure pointer variable we have to use arrow operator instead of dot operator. (Structure Variable -> Structure Member)
+4)To print the C nested structure variable using pointers then we have to use combination of arrow operator and dot operator. (Structure Variable -> Nested Structure Variable. Structure Member)
