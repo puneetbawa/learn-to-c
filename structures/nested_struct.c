@@ -19,7 +19,6 @@ int main(int argc, char *argv[])
 	printf("\nEmployee Name   : %s",emp.ename);  
 	printf("\nEmployee SSN    : %d",emp.ssn);  
 	printf("\nEmployee Salary : %f",emp.salary);  
-	printf("\nEmployee DOJ    : %d/%d/%d", \
-        emp.doj.date,emp.doj.month,emp.doj.year);  
+	printf("\nEmployee DOJ    : %d/%d/%d", emp.doj.date,emp.doj.month,emp.doj.year);  
 	return 0;
 }
