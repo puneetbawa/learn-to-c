@@ -47,9 +47,12 @@ wb+	Open for both reading and writing in binary mode. If the file exists, its co
 a+	Open for both reading and appending. If the file does not exist, it will be created.
 ab+	Open for both reading and appending in binary mode. If the file does not exist, it will be created.
 
+<<<<<<< HEAD
 
 yntax of fseek()
 
 fseek(FILE * stream, long int offset, int whence);
 
 The first parameter stream is the pointer to the file. The second parameter is the position of the record to be found, and the third parameter specifies the location where the offset starts.
+=======
+>>>>>>> 0e9378ee7f0cc5a63f51ffa2accbb46e94bf4a8a
